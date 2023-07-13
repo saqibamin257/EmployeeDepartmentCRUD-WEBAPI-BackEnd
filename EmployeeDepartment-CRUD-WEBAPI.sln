@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeDepartment-CRUD-WEBAPI", "EmployeeDepartment-CRUD-WEBAPI.csproj", "{6AAC92C8-8EB4-45E9-AAA7-C6F636D2F966}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeDepartment-CRUD-Model", "..\EmployeeDepartment-CRUD-Model\EmployeeDepartment-CRUD-Model.csproj", "{F4058498-3FB8-4CB3-8286-1080E5C88C09}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6AAC92C8-8EB4-45E9-AAA7-C6F636D2F966}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AAC92C8-8EB4-45E9-AAA7-C6F636D2F966}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AAC92C8-8EB4-45E9-AAA7-C6F636D2F966}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AAC92C8-8EB4-45E9-AAA7-C6F636D2F966}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4058498-3FB8-4CB3-8286-1080E5C88C09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4058498-3FB8-4CB3-8286-1080E5C88C09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4058498-3FB8-4CB3-8286-1080E5C88C09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4058498-3FB8-4CB3-8286-1080E5C88C09}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5862B642-E83F-4B4F-B3A5-2CA6E9712D80}
+	EndGlobalSection
+EndGlobal
